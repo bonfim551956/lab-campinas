@@ -40,7 +40,7 @@ function texto(card) {
   return 'Olá, tudo bem?\n'
        + `Somos das Óticas Idealize 🕶️ e venho lhe trazer uma ÓTIMA NOTÍCIA, `
        + `seu óculos da Ordem de Serviço nº ${card.os}${emNome} já está pronto! 😉\n`
-       + 'Estamos abertos de segunda a sexta das 9h às 19h, '
+       + 'Estamos abertos de segunda a sexta das 8h às 18h, '
        + 'e aos sábados e feriados das 9h às 15h.';
 }
 
