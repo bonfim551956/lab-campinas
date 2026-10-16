@@ -48,7 +48,7 @@ function texto(card) {
       + `um dos óculos da sua Ordem de Serviço nº ${card.os}${emNome} já está pronto `
       + `para retirada! 😉\n\n`
       + 'O outro ainda está em produção e avisamos assim que ficar pronto.\n\n'
-      + '*_Estamos abertos de segunda a sexta das 9h às 19h, '
+      + '*_Estamos abertos de segunda a sexta das 8h às 18h, '
       + 'e aos sábados e feriados das 9h às 15h._*';
   }
   return 'Olá, tudo bem?\n'
